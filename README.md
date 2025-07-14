@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Syed Mueez Ul Hassan Bukhari
 
-<!--
-**Mueez05/Mueez05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate learner and aspiring Software Engineer currently studying A Levels at Lahore Grammar School. I enjoy building projects with Python, Web Technologies, and exploring the world of Machine Learning.
 
-Here are some ideas to get you started:
+### 🚀 Skills & Technologies:
+- **Languages:** Python, JavaScript, HTML, CSS, SQL
+- **Libraries/Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, Tkinter, Pygame
+- **Tools:** Git, GitHub, VS Code, PyCharm, Jupyter Notebook, Figma, Google Colab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects:
+- [Diabetes Detection ML Model](#)  
+- [House Price Prediction Model](#)  
+- [Snake Game (Pygame)](#)  
+- [Netflix Clone (HTML/CSS)](#)  
+- [UltraEdit Website Clone (HTML/CSS)](#)
+
+### 📚 Currently Learning:
+- Harvard CS50P (Python)
+- ReactJS & Advanced JavaScript
+
+### 📫 Connect with me:
+- 📧 mueezbukhari02@gmail.com
